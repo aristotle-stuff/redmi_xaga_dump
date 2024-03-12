@@ -1,0 +1,10 @@
+dalvik.vm.systemservercompilerfilter=speed-profile
+persist.sys.mdlog_dumpback=2
+persist.vendor.mdlog.max_dump_file_count=10,*.muxz,*.bin
+persist.vendor.mdlog.need_dump=1
+ro.config.alarm_alert=Hassium.ogg
+ro.config.notification_sound=Argon.ogg
+ro.config.ringtone=Orion.ogg
+ro.input.video_enabled=false
+ro.product.ab_ota_partitions=boot,dtbo,odm,odm_dlkm,product,system,system_ext,vbmeta,vbmeta_system,vbmeta_vendor,vendor,vendor_boot,vendor_dlkm
+ro.support_one_handed_mode=true

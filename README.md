@@ -1,0 +1,14 @@
+# xaga-user 12 SP1A.210812.016 V14.0.7.0.TLOMIXM release-keys
+- manufacturer: xiaomi
+- platform: mt6895
+- codename: xaga
+- flavor: lineage_xaga-user
+- release: 13
+- id: TQ3A.230901.001
+- incremental: 1703777753
+- tags: release-keys
+- fingerprint: Redmi/xaga/xaga:12/SP1A.210812.016/V14.0.7.0.TLOMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: xaga-user-12-SP1A.210812.016-V14.0.7.0.TLOMIXM-release-keys
+- repo: redmi_xaga_dump
